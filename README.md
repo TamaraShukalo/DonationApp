@@ -3,6 +3,12 @@
 Mobile application for iOS & Android platforms
 
 # Getting Started
+<img src="https://github.com/user-attachments/assets/80f85671-65fd-4228-9b56-311c30d77bd6" width="350" height="650">   
+<img src="https://github.com/user-attachments/assets/b8c3fae7-3137-4a65-8833-e52915136a1a" width="350" height="650">   
+
+<img src="https://github.com/user-attachments/assets/0a3955f7-9bc3-4734-b678-c67faacf0edd" width="350" height="650">   
+<img src="https://github.com/user-attachments/assets/a42dc600-87f5-49fc-b409-ef8a7f8c4bda" width="350" height="650">   
+<img src="https://github.com/user-attachments/assets/fe36c908-c8ee-474b-a48e-7ddb381404a0" width="350" height="650">   
 
 ## Step 1: How to Setup
 
